@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @fawad-sh
+- 👋 Hi, I’m @fawad-sh Fawad Irfan Sheikh
 - 👀 I’m interested in MERN stack
 - 🌱 I’m currently learning MERN, Javascript
 - 💞️ I’m looking to collaborate on MERN, PHP, JavaScript
