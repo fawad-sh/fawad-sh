@@ -1,6 +1,5 @@
-- 👋 Hi, I’m @fawad-sh Fawad Irfan Sheikh
-- 👀 I’m interested in MERN stack
-- 🌱 I’m currently learning MERN, Javascript
+- 👋 Hi, I’m @fawad-sh Fawad Irfan Sheikh, a full stack developer
+- 👀 I’ve developed solutions for telecom, gsm roaming, engineering (bid estimation and calculation), education sector, manufacturing....
 - 💞️ I’m looking to collaborate on MERN, PHP, JavaScript
 - 📫 How to reach me - send an email to fawad313@acm.org
 
